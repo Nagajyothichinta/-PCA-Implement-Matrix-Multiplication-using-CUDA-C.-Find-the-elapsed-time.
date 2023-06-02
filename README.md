@@ -20,8 +20,8 @@ Intoduce a Main function, in the main method declare the required variables and 
 Save the program and execute it .
 ## Program :
 ```
-DEVELOPED BY : VALASAREDDY PALLAVI
-REGISTER NO : 212221240059
+DEVELOPED BY : Chintha.Nagajyothi
+REGISTER NO : 212221230015
 ```
 
 ```
